@@ -2,10 +2,10 @@
 Machine Learning Development For Mobile SIBI Translation
 
 ## Documentation
-The work of this application is divided into four steps so that it can run as we made it:
+The work of this application is divided into three steps so that it can run as we made it:
 - Machine Learning Training and Prediction Modeling.
 - Machine Learning Deployment in the Cloud and Testing the API.
-- Native Android Application Creation.
+- Kotlin Android Application Creation.
 
 ### Machine Learning Training and Prediction Model.
 #### Requirement
